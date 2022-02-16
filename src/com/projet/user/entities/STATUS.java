@@ -1,0 +1,9 @@
+package com.projet.user.entities;
+
+public enum STATUS {
+	COMPTABLE,
+	ASSISTANT_PROGRAMME,
+	ENSEIGNANT,
+	CHEF_DE_CLASSE,
+	RESPONSABLE_PEDAGOGIQUE
+}
